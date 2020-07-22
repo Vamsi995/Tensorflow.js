@@ -1,6 +1,6 @@
 # Tensorflow.js Projects
 
-One Paragraph of project description goes here
+These are some of the fun projects which i did in my free time, I also used p5.js here so the setup of this is similar to my p5.js repo.
 
 ## Getting Started
 
@@ -8,43 +8,25 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+Any code editor but preferrably VS-CODE
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
+- Clone the repository
 ```
-Give the example
+git clone [repolink]
 ```
-
-And repeat
-
-```
-until finished
-```
+- Download the live server extension on Vs-code. [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- Run the live server and choose which project to open
 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [p5.js](https://p5js.org/) - The web framework used
+* [tensorflow.js](https://www.tensorflow.org/js) - Dependency Management
+* [ml5.js](https://ml5js.org/) - Used to generate RSS Feeds
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
